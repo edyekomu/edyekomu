@@ -1,5 +1,5 @@
 # Hi there!
-## 🐱‍👤 About Me
+## 😺 About Me
 
 👋 I am Edward Yee, a year 2 Junior College student currently pursuing **Singapore-Cambridge GCE A-Levels**.
 
