@@ -1,7 +1,7 @@
 # Hi there!
 ## 😺 About Me
 
-👋 I am Edward Yee, a year 2 Junior College student currently pursuing **Singapore-Cambridge GCE A-Levels**.
+👋 I am Edward Yee, a student interested in cybersecurity.
 
 📜 I am currently certified with CompTIA A+.
 
